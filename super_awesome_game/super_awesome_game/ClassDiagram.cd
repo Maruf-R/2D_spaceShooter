@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="baseObject">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAABAAGoAAAAAAAAAAAAAAAAGAIQAA=</HashCode>
+      <FileName>baseObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gameManager">
+    <Position X="36.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QECBBEEA5I0MGgLCUSxgQEBhmDCCMAME4CQkJxkBAiY=</HashCode>
+      <FileName>gameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gameObject">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wgAAgAAACAAAAEBAAAIMAAAAFAAAABAEAgAAIAAECAY=</HashCode>
+      <FileName>gameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="music">
+    <Position X="29.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIAAAAAIABAAAAAAAAAAAAAACgAAAAACAAAAACIAA=</HashCode>
+      <FileName>music.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sound">
+    <Position X="31.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIAAAAAIAAIAAAAAAAAAAAAACkAAAAAAAABAACIAA=</HashCode>
+      <FileName>sound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sprite">
+    <Position X="33.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAIAACAAAAAAAABAAAAAAEBCFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyBullet">
+    <Position X="13.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAACAAgAAAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>enemyBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyPurp">
+    <Position X="17.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAACACGAAAQAAIAAAAEAAgIAAAAAAAAEAQE=</HashCode>
+      <FileName>enemyPurp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyUFO">
+    <Position X="21.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAABAAACGAAAAAAAAAAAAEAAIAAgAAAAAEAQA=</HashCode>
+      <FileName>enemyUFO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyYell">
+    <Position X="26.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAMgAAAAAACACHAAAAAAIAAAAAAAAIAAAAAAAAEAQE=</HashCode>
+      <FileName>enemyYell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="player">
+    <Position X="24.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIgAAAAAQAQECQAAAEAIAAAAAIARIhAAAAAAAEgQA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerBullet">
+    <Position X="32.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQACAAAAACAAAAAQAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>playerBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerLives">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAkAAAAAACAAAAAAAQAIAACAAABAEAAA=</HashCode>
+      <FileName>playerLives.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="firstLevel">
+    <Position X="18.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAQAAAAAAAAgAABAAAIAAAABAAIgAAgAAQAEAQA=</HashCode>
+      <FileName>firstLevel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shieldDurationDisplay">
+    <Position X="22.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAEAAAACCAAAIAAAAAAIAABEAAAAECAA=</HashCode>
+      <FileName>shieldDurationDisplay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="speed">
+    <Position X="27.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAIAAAAAAAAAAAAAAAAAAAAAAQIADAAAAAAEAQA=</HashCode>
+      <FileName>speed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="speedDurationDisplay">
+    <Position X="30.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACAAAAAEIAAABCAAAIAAAAAAIAAgAAAAAEAAA=</HashCode>
+      <FileName>speedDurationDisplay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="speedPowerUp">
+    <Position X="33.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAIAAAAAAAAAAAAAAAAgAAAACAIAAAAAAAAEAYA=</HashCode>
+      <FileName>speedPowerUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shield">
+    <Position X="15.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAIIAAAABAABAAAAAAAAAAAAAAIAAAAAAAAEAQA=</HashCode>
+      <FileName>shield.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shieldPowerUp">
+    <Position X="19.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAIAAAAAAAAAAAAAAAQAAAEEAAIAAAAAAAAEAQA=</HashCode>
+      <FileName>shieldPowerUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="button">
+    <Position X="23.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAQCQgAAAAAAAAEAAAAAABIAAAAAAAAEAIA=</HashCode>
+      <FileName>button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gameBackground">
+    <Position X="28.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAECAAAIAAAAAIAAABAIAAAAAAAgkAAA=</HashCode>
+      <FileName>gameBackground.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="helpScreen">
+    <Position X="31.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAEAAABAEAAwAcACAAAAAAAABIAAAAAAAAEAAA=</HashCode>
+      <FileName>helpScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="scoreScreen">
+    <Position X="34.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAMEAAAAAIAAAAAAAIAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>scoreScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="textDisplay">
+    <Position X="16.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABQAAAAAAQEACBAIAAAAAAAAAAAIIABAAAQAEAAA=</HashCode>
+      <FileName>textDisplay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="splashScreen">
+    <Position X="20.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAggAAAAAAAAAAAAAAAAAAAAAAAAIAAAEAAAAEAIA=</HashCode>
+      <FileName>splashScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="titleScreen">
+    <Position X="25.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgBEAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>titleScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pauseMenu">
+    <Position X="29.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAIAAAAAAAAACAAAAAAAABIAAAAACAAEAAA=</HashCode>
+      <FileName>pauseMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

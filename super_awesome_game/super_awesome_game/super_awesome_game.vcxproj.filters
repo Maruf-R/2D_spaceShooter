@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Game Library">
+      <UniqueIdentifier>{3236eab3-c097-49af-a208-329f22bd8465}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Library\Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Game Library\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="super_awesome_game">
+      <UniqueIdentifier>{c64c89fa-9af3-4c61-a94d-631a1c11547a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens &amp; UI">
+      <UniqueIdentifier>{83086e7c-3ef7-4816-9274-201244e4fb3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens &amp; UI\Header Files">
+      <UniqueIdentifier>{9e83b735-dcf9-49d5-860a-41ffa312034d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Screens &amp; UI\Source Files">
+      <UniqueIdentifier>{8b12db93-7313-4b4d-a0ff-141651d19928}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Enemies">
+      <UniqueIdentifier>{91e8aab2-a6b6-4f7c-9254-1950efd36e97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Enemies\Header Files">
+      <UniqueIdentifier>{b34f75e8-116d-41d5-90c5-1096c7c634b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Enemies\Source Files">
+      <UniqueIdentifier>{c322369f-86d6-408d-8b0b-768ac293d490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Player">
+      <UniqueIdentifier>{f584616a-2aa9-4df9-a858-6e1d2de2dff2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Player\Source Files">
+      <UniqueIdentifier>{c7897549-ea80-4016-be46-ab63a3a7ca8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Player\Header Files">
+      <UniqueIdentifier>{225fc6d5-14cb-4d37-8981-db78c0ee88ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Main &amp; Levels">
+      <UniqueIdentifier>{9f747855-0a3d-4f09-8864-fe849cc30770}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Main &amp; Levels\Header Files">
+      <UniqueIdentifier>{cac4e0ff-04aa-48bf-ac03-f03a7816ac6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Main &amp; Levels\Source Files">
+      <UniqueIdentifier>{bb095d10-350d-41c4-afad-629db7b6dc45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Power Ups">
+      <UniqueIdentifier>{d83939a9-b364-4a63-b851-5d078ff16a0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Power Ups\Header Files">
+      <UniqueIdentifier>{4d904345-ee82-4ab0-9b00-540837e12230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="super_awesome_game\Power Ups\Source Files">
+      <UniqueIdentifier>{08d79055-70ce-48b1-b760-e50ef5bfce3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pause Menu Objects">
+      <UniqueIdentifier>{fa35847a-1684-459b-8c15-0c7739ca5d0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pause Menu Objects\Header Files">
+      <UniqueIdentifier>{f6527e34-ea64-4a87-b11d-eefe6e529790}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pause Menu Objects\Source Files">
+      <UniqueIdentifier>{7808a290-e472-41f3-8887-6b0f91e68029}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="gameObject.h">
+      <Filter>Game Library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gameManager.h">
+      <Filter>Game Library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="baseObject.h">
+      <Filter>Game Library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>Game Library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>Game Library\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="playerBullet.h">
+      <Filter>super_awesome_game\Player\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>super_awesome_game\Player\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>Screens &amp; UI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="splashScreen.h">
+      <Filter>Screens &amp; UI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="titleScreen.h">
+      <Filter>Screens &amp; UI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyBullet.h">
+      <Filter>super_awesome_game\Enemies\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyPurp.h">
+      <Filter>super_awesome_game\Enemies\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyUFO.h">
+      <Filter>super_awesome_game\Enemies\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="firstLevel.h">
+      <Filter>super_awesome_game\Main &amp; Levels\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shield.h">
+      <Filter>super_awesome_game\Power Ups\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyYell.h">
+      <Filter>super_awesome_game\Enemies\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gameBackground.h">
+      <Filter>Screens &amp; UI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="helpScreen.h">
+      <Filter>Screens &amp; UI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="textDisplay.h">
+      <Filter>Screens &amp; UI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="playerLives.h">
+      <Filter>super_awesome_game\Player\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shieldPowerUp.h">
+      <Filter>super_awesome_game\Power Ups\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="speedPowerUp.h">
+      <Filter>super_awesome_game\Power Ups\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shieldDurationDisplay.h">
+      <Filter>super_awesome_game\Power Ups\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="speedDurationDisplay.h">
+      <Filter>super_awesome_game\Power Ups\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="scoreScreen.h">
+      <Filter>Screens &amp; UI\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="speed.h">
+      <Filter>super_awesome_game\Power Ups\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pauseMenu.h">
+      <Filter>Pause Menu Objects\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="music.h">
+      <Filter>Game Library\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="baseObject.cpp">
+      <Filter>Game Library\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gameManager.cpp">
+      <Filter>Game Library\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject.cpp">
+      <Filter>Game Library\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>Game Library\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>Game Library\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="playerBullet.cpp">
+      <Filter>super_awesome_game\Player\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>super_awesome_game\Player\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>Screens &amp; UI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="splashScreen.cpp">
+      <Filter>Screens &amp; UI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="titleScreen.cpp">
+      <Filter>Screens &amp; UI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyBullet.cpp">
+      <Filter>super_awesome_game\Enemies\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyPurp.cpp">
+      <Filter>super_awesome_game\Enemies\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyUFO.cpp">
+      <Filter>super_awesome_game\Enemies\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>super_awesome_game\Main &amp; Levels\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="firstLevel.cpp">
+      <Filter>super_awesome_game\Main &amp; Levels\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyYell.cpp">
+      <Filter>super_awesome_game\Enemies\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gameBackground.cpp">
+      <Filter>Screens &amp; UI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="helpScreen.cpp">
+      <Filter>Screens &amp; UI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="textDisplay.cpp">
+      <Filter>Screens &amp; UI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="playerLives.cpp">
+      <Filter>super_awesome_game\Player\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shieldPowerUp.cpp">
+      <Filter>super_awesome_game\Power Ups\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="speedPowerUp.cpp">
+      <Filter>super_awesome_game\Power Ups\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shieldDurationDisplay.cpp">
+      <Filter>super_awesome_game\Power Ups\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="speedDurationDisplay.cpp">
+      <Filter>super_awesome_game\Power Ups\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shield.cpp">
+      <Filter>super_awesome_game\Power Ups\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scoreScreen.cpp">
+      <Filter>Screens &amp; UI\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="speed.cpp">
+      <Filter>super_awesome_game\Power Ups\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pauseMenu.cpp">
+      <Filter>Pause Menu Objects\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="music.cpp">
+      <Filter>Game Library\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

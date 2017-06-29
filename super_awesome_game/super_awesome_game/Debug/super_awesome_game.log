@@ -1,0 +1,94 @@
+﻿Build started 28/06/2017 01:36:09.
+     1>Project "C:\Users\maruf\Documents\School stuff\BTEC Level 3 ICT\2nd Year\Patrick\Assignment\super_awesome_game\super_awesome_game\super_awesome_game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt gameManager.cpp
+         gameManager.cpp
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(99): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(104): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(108): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(230): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(246): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(284): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(297): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(317): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(356): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(367): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(392): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(417): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(428): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(443): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(452): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(467): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(476): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(493): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(514): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(547): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(558): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(594): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(630): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(632): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(670): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(692): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(694): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(701): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(713): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(726): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(728): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(730): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(737): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(739): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(766): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(768): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(871): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(876): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(882): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(887): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(894): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(899): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(907): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(917): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(926): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(934): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(943): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(951): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(959): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(967): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(976): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\maruf\documents\school stuff\btec level 3 ict\2nd year\patrick\assignment\super_awesome_game\super_awesome_game\gamemanager.cpp(984): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\maruf\Documents\School stuff\BTEC Level 3 ICT\2nd Year\Patrick\Assignment\super_awesome_game\Debug\super_awesome_game.exe" /INCREMENTAL /NOLOGO SDLmain.lib SDL.lib SDL_ttf.lib SDL_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\maruf\Documents\School stuff\BTEC Level 3 ICT\2nd Year\Patrick\Assignment\super_awesome_game\Debug\super_awesome_game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\maruf\Documents\School stuff\BTEC Level 3 ICT\2nd Year\Patrick\Assignment\super_awesome_game\Debug\super_awesome_game.lib" /MACHINE:X86 Debug\baseObject.obj
+         Debug\button.obj
+         Debug\enemyBullet.obj
+         Debug\enemyPurp.obj
+         Debug\enemyUFO.obj
+         Debug\enemyYell.obj
+         Debug\firstLevel.obj
+         Debug\gameBackground.obj
+         Debug\gameManager.obj
+         Debug\gameObject.obj
+         Debug\helpScreen.obj
+         Debug\main.obj
+         Debug\music.obj
+         Debug\pauseMenu.obj
+         Debug\player.obj
+         Debug\playerBullet.obj
+         Debug\playerLives.obj
+         Debug\scoreScreen.obj
+         Debug\shieldDurationDisplay.obj
+         Debug\speed.obj
+         Debug\speedDurationDisplay.obj
+         Debug\speedPowerUp.obj
+         Debug\textDisplay.obj
+         Debug\shield.obj
+         Debug\shieldPowerUp.obj
+         Debug\sound.obj
+         Debug\splashScreen.obj
+         Debug\sprite.obj
+         Debug\titleScreen.obj
+         super_awesome_game.vcxproj -> C:\Users\maruf\Documents\School stuff\BTEC Level 3 ICT\2nd Year\Patrick\Assignment\super_awesome_game\Debug\super_awesome_game.exe
+     1>Done Building Project "C:\Users\maruf\Documents\School stuff\BTEC Level 3 ICT\2nd Year\Patrick\Assignment\super_awesome_game\super_awesome_game\super_awesome_game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.19
